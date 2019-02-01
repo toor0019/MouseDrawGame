@@ -1,0 +1,14 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/toor0019/MouseDrawGame
+[remote "toor"]
+	url = https://github.com/toor0019/MouseDrawGame
+	push = HEAD:t
+[remote "ttt"]
+	url = git@github.com:toor0019/MouseDrawGame.git
+	push = Local:t
